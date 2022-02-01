@@ -1,0 +1,1 @@
+Create a database in XAMPP Server by the name of rps_db and import the given SQL file into that database.
